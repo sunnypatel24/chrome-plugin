@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Sunny Launcher",
+  "description": "Quick launch for Sunny links",
+  "version": "1.0.0",
+  "icons": { "128": "icon_70.png" },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
