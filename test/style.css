@@ -1,3 +1,4 @@
-body::selection {
+::selection {
   color: green;
+  background-color: yellow;
 }
